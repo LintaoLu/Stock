@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E43F3F</color>
+    <color name="colorPrimaryDark">#D50000</color>
+    <color name="colorAccent">#FF8A80</color>
+
+    <color name="darkgray">#6c6c6c</color>
+    <color name="tabtextcolor">#fff</color>
+    <color name="tabindicatorcolor">#2d2d2d</color>
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="stock_color_background">#BB86FC</color>
+
+    <color name="theme_primary">#2196F3</color>
+    <color name="theme_primary_dark">#1976D2</color>
+    <color name="theme_primary_light">#BBDEFB</color>
+
+    <color name="theme_background">#FFFFFF</color>
+    <color name="theme_background_inverse">#212121</color>
+
+    <color name="theme_accent_1">#212121</color>
+
+    <color name="theme_primary_trans">#99212121</color>
+    <color name="theme_primary_text">#212121</color>
+    <color name="theme_secondary_text">#727272</color>
+    <color name="theme_primary_text_inverted">#ffffff</color>
+    <color name="theme_secondary_text_inverted">#8affffff</color>
+    <color name="theme_icons">#FFFFFF</color>
+    <color name="theme_divider">#B6B6B6</color>
+
+</resources>

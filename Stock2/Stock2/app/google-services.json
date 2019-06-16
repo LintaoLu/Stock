@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074853925200",
+    "firebase_url": "https://stock2-e0bed.firebaseio.com",
+    "project_id": "stock2-e0bed",
+    "storage_bucket": "stock2-e0bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074853925200:android:7a49a870f505699d",
+        "android_client_info": {
+          "package_name": "llu25.hawk.iit.stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074853925200-fpm9vge6h1iv3dmt4r1vtfctauha9kth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMv6Dyx5595Cp0c-RJZ_UEdxWai0Ia8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074853925200-fpm9vge6h1iv3dmt4r1vtfctauha9kth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

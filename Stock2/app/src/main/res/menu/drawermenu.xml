@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_account"
+        android:title="My Account"
+        android:icon="@drawable/ic_baseline_account_circle_24px"/>
+    <item android:id="@+id/menu_stock" android:title="My Stock"
+        android:icon="@drawable/ic_baseline_trending_up_24px"/>
+    <item android:id="@+id/menu_news" android:title="Favorite News"
+        android:icon="@drawable/ic_baseline_library_books_24px"/>
+    <item android:id="@+id/menu_setting" android:title="Setting"
+        android:icon="@drawable/ic_baseline_settings_20px"/>
+    <item android:id="@+id/menu_logout" android:title="Log Out"
+        android:icon="@drawable/ic_baseline_exit_to_app_24px"/>
+</menu>
